@@ -1,25 +1,6 @@
 ## 알고리즘 관련 정리 내용
-week    
 
-
-
-
-
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## sort 
+정렬 (sort) 알고리즘에 관련된 정리 내용 
+항상 인터페이스 SortAlgoritm을 상속받아 사용
+list<Integer>를 인자로 받고 항상 리턴 
