@@ -9,7 +9,6 @@ public class QuickSort implements SortAlgoritm{
         quickSort(arr, 0, arr.size()-1);
         return arr;
     }
-    
     public void quickSort(List<Integer> arr , int left , int right){
         if(left >= right) return;
 
